@@ -1,6 +1,6 @@
 ### Hello World! Eu sou Lucas Bentes
 
-- 🔭 Hoje trabalho com Back-end
+- 🔭 Viso trabalhar com Back-end
 - 🌱 Estudo Java e Python
 
 <div align="center">
