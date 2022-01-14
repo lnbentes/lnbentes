@@ -1,7 +1,7 @@
-### Hello World! Eu sou Lucas Bentes
+### Hello World! I am Lucas Bentes
 
-- 🔭 Viso trabalhar com Back-end
-- 🌱 Estudo Java e Python
+- 🔭 I am looking for work with Back-end
+- 🌱 I am studying Java and Python
 
 <div align="center">
   <a href="https://github.com/lnbentes">
