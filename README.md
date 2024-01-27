@@ -1,7 +1,6 @@
 ### Hello World! I am Lucas Bentes
 
-- 🔭 I am looking for work with Back-end
-- 🌱 I am studying Java and Python
+- I am a Software Development Technician with experience in various areas. I am involved in projects that aim to innovate in the use of credit for partners, using Agile methodology and developing APIs in C# consumed by web systems and TOTVS ERPs. My technical skills include C#, ASP.NET Core, NoSQL, DBeaver, PostgreSQL, Kubernetes, RabbitMQ, Docker, TypeScript, and Google Data Studio.
 
 <div align="center">
   <a href="https://github.com/lnbentes">
